@@ -9,7 +9,7 @@
 The game focuses on guiding users through scientific research and theories as if they were working alongside Einstein himself. It not only provides clear and thoughtful explanations but also encourages users to think like Einstein—questioning assumptions, exploring ideas deeply, and approaching problems with an open and inquisitive mind. While the GPT is knowledgeable about many scientific concepts, it gracefully acknowledges the boundaries of Einstein’s historical knowledge and gently redirects discussions to relevant topics, fostering an immersive and inspiring learning environment.
 
 #
-###
+### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 
