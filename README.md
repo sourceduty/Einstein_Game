@@ -22,7 +22,7 @@ In contrast, games that employ emulation aim to replicate specific actions, meth
 <br>
 [Electricity Game](https://github.com/sourceduty/Electricity_Game)
 <br>
-[Einstain Battle](https://github.com/sourceduty/Einstein_Battle)
+[Einstein Battle](https://github.com/sourceduty/Einstein_Battle)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
