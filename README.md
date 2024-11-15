@@ -1,4 +1,4 @@
-![Einstein Game](https://github.com/user-attachments/assets/6646e854-e8c9-4362-83e3-98649107bcdd)
+![Einstein](https://github.com/user-attachments/assets/29dfea4a-5d71-4d8c-b6a9-6b5ca4733532)
 
 > Smart and educational Albert Einstein simulation game.
 
